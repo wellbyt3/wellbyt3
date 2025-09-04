@@ -1,7 +1,7 @@
 # Hey, I'm Wellbyt3 👋
 I competed in my first public audit contest in August 2024, completed an internship with [Pashov Audit Group](https://github.com/wellbyt3/wellbyt3/blob/main/wellbyt3-pashov-internship.png), and now participate in contest full-time. 
 
-Audit contests were my first real introduction to blockchains and web3. Before that, I worked as an analytics engineer in FinTech, where I built data pipelines and analyzed data to help various teams make more informed decisions. That background makes me especially enjoy auditing DeFi protocols, since so many of them embed the kind of business math I'm familiar with from data analytics. 
+Audit contests were my first real introduction to blockchains and web3. Before that, I worked as an analytics engineer in FinTech, where I built data pipelines and analyzed data to help various teams make more informed decisions. That background makes me especially enjoy auditing DeFi protocols, since so many of them embed a similar kind of business math.
 
 Before that, I founded an SEO analytics firm where we reverse-engineered search engine ranking algorithms and used that information to help clients increase traffic to their websites. We developed some proprietary tooling that automated the SEO analysis process, which led to the firm being acquired.
 
