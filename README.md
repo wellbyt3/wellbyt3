@@ -18,3 +18,4 @@
 | ZeroLend One | #26 | 1H | 1M | - |
 | Tadle | #31 | 5H | - | 1L |
 | Sentiment V2 | #46 | - | 1M | - |
+| **Total** | - | 26H | 20M | 6L |
