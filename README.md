@@ -1,5 +1,5 @@
 # Hey, I'm Wellbyt3 👋
-I competed in my first public audit contest in August 2024, completed an internship with [Pashov Audit Group](https://github.com/wellbyt3/wellbyt3/blob/main/wellbyt3-pashov-internship.png), and now participate in contests full-time. 
+I'm a Security Researcher currently competing in public security contests. I ranked #2 in the Gamma Liquidiy Management contest and completed an internship with [Pashov Audit Group](https://github.com/wellbyt3/wellbyt3/blob/main/wellbyt3-pashov-internship.png).
 
 Audit contests were my first real introduction to blockchains and web3. Before that, I worked as an analytics engineer in FinTech, where I built data pipelines and analyzed data to help teams make more informed decisions. That background makes me especially enjoy auditing DeFi protocols, since many of them embed a similar kind of business math.
 
