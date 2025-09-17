@@ -5,7 +5,7 @@ Security contests were my first real introduction to blockchains and web3. Befor
 
 Prior to that, I founded an SEO analytics firm where we reverse-engineered search engine ranking algorithms and used those insights to help clients increase traffic to their websites. We developed some proprietary tooling that automated the SEO analysis process, which led to the firm being acquired.
 
-I'm also the creator of Bugalytics.xyz, a public good that turns blockchain security contest data into actionable insights, so teams can run more effective contests and ship safer code.
+I'm also the creator of [Bugalytics.xyz](https://www.bugalytics.xyz/), a public good that turns blockchain security contest data into actionable insights, so teams can run more effective contests and ship safer code.
 
 Connect with me on:
 - X: [@wellbyt3](https://x.com/wellbyt3)
